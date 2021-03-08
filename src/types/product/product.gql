@@ -1,0 +1,41 @@
+type Product {
+  id: ID
+  name: String!
+  price: Float!
+  image: Image!
+  supplier: String!
+  quantity: String!
+  units: Int!
+  saleBy: Date
+}
+
+input NewProductInput {
+  name: String!
+  units: Int!
+  price: Float!
+  image: NewImageInput!
+  supplier: String!
+  quantity: String!
+  saleBy: Date!
+}
+
+input UpdateProductInput {
+  name: String
+  units: Int
+  price: Float
+  image: NewImageInput
+  quantity: String
+  saleBy: Date
+}
+
+extend type Query {
+  products: [Product]!
+  product(id: ID!): Product!
+  productList(pagination: PaginationInput): [Product]!
+}
+
+extend type Mutation {
+  removeProduct(id: ID!): Product!
+  newProduct(input: NewProductInput!): Product!
+  updateProduct(id: ID!, input: UpdateProductInput!): Product!
+}

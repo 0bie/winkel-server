@@ -1,0 +1,45 @@
+{
+  "extends": [
+    "eslint:recommended"
+  ],
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "modules": true
+    }
+  },
+  "rules": {
+    "no-console": 2,
+    "guard-for-in": 2,
+    "prefer-const": 2,
+    "linebreak-style": 0,
+    "no-multi-spaces": 2,
+    "semi": [2, "always"],
+    "quotes": [2, "single"],
+    "no-trailing-spaces": 2,
+    "no-useless-constructor": 2,
+    "no-template-curly-in-string": 2,
+    "arrow-parens": [2, "always"],
+    "indent": [2, 2, {"SwitchCase": 1}],
+    "object-curly-spacing": [2, "never"],
+    "template-curly-spacing": [2, "never"],
+    "space-before-function-paren": [2, {
+      "named": "never",
+      "anonymous": "always",
+      "asyncArrow": "ignore"
+    }],
+    "key-spacing": [2, { "beforeColon": false }],
+    "space-infix-ops": [2, {"int32Hint": false}],
+    "space-unary-ops": [2, {"words": true, "nonwords": false}],
+    "object-shorthand": [2, "always", { "avoidQuotes": true }],
+    "prefer-arrow-callback": [2, {"allowNamedFunctions": true}],
+    "no-unused-vars": [2, { "vars": "local", "args": "after-used" }]
+  }
+}

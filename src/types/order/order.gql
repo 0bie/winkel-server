@@ -1,0 +1,21 @@
+type Order {
+  id: ID
+  lead: User!
+  units: Int!
+  delivery: String
+  products: [Product!]!
+}
+
+input NewOrderInput {
+  units: Int!
+  delivery: String
+  products: [NewProductInput!]!
+}
+
+extend type Query {
+  order: Order!
+}
+
+extend type Mutation {
+  newOrder(input: NewOrderInput!): Order!
+}

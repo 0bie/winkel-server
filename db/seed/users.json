@@ -1,0 +1,24 @@
+[{
+  "firstName": "joan",
+  "lastName": "holloway",
+  "role": "Office Manager",
+  "orders": 32,
+  "offers": 12,
+  "messages": 5,
+  "image": {"src": "https://winkel-ssr.obie.dev/assets/avatar/avatar3.jpg", "alt": "profile image for joan holloway", "caption": ""},
+  "bio": "Joan P. Holloway was the office manager  at Sterling Cooper advertising agency. She is one of the Junior Partners at Sterling Cooper Draper Pryce. She was born on February 24, 1931.",
+  "social": [
+    {
+      "platform": "linkedin",
+      "link": "https://www.linkedin.com"
+    },
+    {
+      "platform": "facebook",
+      "link": "https://www.facebook.com"
+    },
+    {
+      "platform": "twitter",
+      "link": "https://www.facebook.com"
+    }
+  ]
+}]

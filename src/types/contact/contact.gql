@@ -1,0 +1,49 @@
+type Contact {
+  id: ID
+  firstName: String!
+  lastName: String!
+  email: String!
+  role: String
+  bio: String
+  image: Image
+  createdAt: Date
+  social: [Social!]
+  messages: [Message!]
+}
+
+input NewContactInput {
+  firstName: String!
+  lastName: String!
+  email: String!
+  role: String
+  bio: String
+  social: NewSocialInput
+  image: NewImageInput
+}
+
+input UpdateContactInput {
+  firstName: String
+  lastName: String
+  email: String
+  role: String
+  bio: String
+  social: UpdateSocialInput
+  image: NewImageInput
+}
+
+input MessageContactInput {
+  text: String!
+  subject: String!
+}
+
+extend type Query {
+  contacts: [Contact]!
+  contact(id: ID!): Contact!
+}
+
+extend type Mutation {
+  removeContact(id: ID!): Contact!
+  newContact(input: NewContactInput!): Contact!
+  updateContact(id: ID!, input: UpdateContactInput!): Contact!
+  messageContact(id: ID!, input: MessageContactInput): Contact!
+}

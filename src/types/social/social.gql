@@ -1,0 +1,23 @@
+type Social {
+  platform: String!
+  link: String!
+}
+
+input NewSocialInput {
+  platform: String!
+  link: String!
+}
+
+input UpdateSocialInput {
+  platform: String!
+  link: String!
+}
+
+extend type Query {
+  social: Social!
+}
+
+extend type Mutation {
+  addSocial(input: NewSocialInput!): Social!
+  updateSocial(input: UpdateSocialInput!): Social!
+}

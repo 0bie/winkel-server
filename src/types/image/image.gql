@@ -1,0 +1,15 @@
+type Image {
+  src: String!
+  alt: String!
+  caption: String
+}
+
+input NewImageInput {
+  src: String!
+  alt: String!
+  caption: String
+}
+
+extend type Query {
+  image: Image!
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "name": "H&M",
+    "location": "Delta, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company1.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "handcrafted sling bags",
+        "price": 3000,
+        "image": {"src": "http://localhost:3000/assets/product/product1.jpg", "alt": "product image", "caption": ""},
+        "supplier": "H&M",
+        "quantity": "wholesale",
+        "end_date": "early aug.",
+        "units": 100
+      }
+    ]
+  },
+  {
+    "name": "claire's",
+    "location": "Kamloops, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company2.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "two silver bangles",
+        "price": 10000,
+        "image": {"src": "http://localhost:3000/assets/product/product2.jpg", "alt": "product image", "caption": ""},
+        "supplier": "claire's",
+        "quantity": "wholesale/retail",
+        "end_date": "late march",
+        "units": 50
+      }
+    ]
+  },
+  {
+    "name": "jamba juice",
+    "location": "Cranbrook, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company3.png", "alt": "company image", "caption": ""},
+    "quantity": "retail",
+    "products": [
+      {
+        "name": "maui kale juice",
+        "price": 450000,
+        "image": {"src": "http://localhost:3000/assets/product/product3.jpg", "alt": "product image", "caption": ""},
+        "supplier": "jamba juice",
+        "quantity": "retail",
+        "end_date": "mid jan.",
+        "units": 250
+      }
+    ]
+  },
+  {
+    "name": "freshii",
+    "location": "Toronto, ON",
+    "image": {"src": "http://localhost:3000/assets/company/company4.jpeg", "alt": "company image", "caption": ""},
+    "quantity": "retail",
+    "products": [
+      {
+        "name": "earth pineapple juice",
+        "price": 8000,
+        "image": {"src": "http://localhost:3000/assets/product/product4.jpg", "alt": "product image", "caption": ""},
+        "supplier": "freshii",
+        "quantity": "retail",
+        "end_date": "late nov.",
+        "units": 4000
+      },
+      {
+        "name": "organic wellness shots",
+        "price": 10000,
+        "image": {"src": "http://localhost:3000/assets/product/product12.jpg", "alt": "product image", "caption": ""},
+        "supplier": "freshii",
+        "quantity": "retail",
+        "end_date": "late july",
+        "units": 3000
+      }
+    ]
+  },
+  {
+    "name": "lancome",
+    "location": "Coquitlam, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company5.jpg", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "face powder",
+        "price": 234000,
+        "image": {"src": "http://localhost:3000/assets/product/product5.jpg", "alt": "product image", "caption": ""},
+        "supplier": "lancome",
+        "quantity": "retail",
+        "end_date": "early may",
+        "units": 800
+      }
+    ]
+  },
+  {
+    "name": "olay",
+    "location": "Belleville, ON",
+    "image": {"src": "http://localhost:3000/assets/company/company6.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "Makeup Brush",
+        "price": 18000,
+        "image": {"src": "http://localhost:3000/assets/product/product6.jpg", "alt": "product image", "caption": ""},
+        "supplier": "olay",
+        "quantity": "wholesale",
+        "end_date": "mid aug.",
+        "units": 320
+      }
+    ]
+  },
+  {
+    "name": "oakley",
+    "location": "Saguenay, QC",
+    "image": {"src": "http://localhost:3000/assets/company/company7.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "white sunglasses",
+        "price": 76900,
+        "image": {"src": "http://localhost:3000/assets/product/product7.jpg", "alt": "product image", "caption": ""},
+        "supplier": "oakley",
+        "quantity": "retail",
+        "end_date": "late sept.",
+        "units": 5000
+      }
+    ]
+  },
+  {
+    "name": "ray-ban",
+    "location": "Qualicum Beach, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company8.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "rose sunglasses",
+        "price": 8500,
+        "image": {"src": "http://localhost:3000/assets/product/product8.jpg", "alt": "product image", "caption": ""},
+        "supplier": "ray-ban",
+        "quantity": "retail",
+        "end_date": "late nov.",
+        "units": 10000
+      }
+    ]
+  },
+  {
+    "name": "fossil",
+    "location": "Maple Ridge, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company9.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "brown leather bag",
+        "price": 3458000,
+        "image": {"src": "http://localhost:3000/assets/product/product9.jpg", "alt": "product image", "caption": ""},
+        "supplier": "fossil",
+        "quantity": "retail",
+        "end_date": "late dec.",
+        "units": 600
+      }
+    ]
+  },
+  {
+    "name": "roots",
+    "location": "Toronto, ON",
+    "image": {"src": "http://localhost:3000/assets/company/company10.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "green leather tote",
+        "price": 83387,
+        "image": {"src": "http://localhost:3000/assets/product/product10.jpg", "alt": "product image", "caption": ""},
+        "supplier": "roots",
+        "quantity": "retail",
+        "end_date": "early feb.",
+        "units": 9000
+      }
+    ]
+  },
+  {
+    "name": "bath & body works",
+    "location": "Prince George, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company11.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": [
+      {
+        "name": "herbivore skin care kit",
+        "price": 83387,
+        "image": {"src": "http://localhost:3000/assets/product/product11.jpg", "alt": "product image", "caption": ""},
+        "supplier": "bath and body works",
+        "quantity": "retail",
+        "units": 3000,
+        "saleBy": {"$date":"2021-10-01T19:55:08.777Z"}
+      }
+    ]
+  },
+  {
+    "name": "lululemon",
+    "location": "Vancouver, BC",
+    "image": {"src": "http://localhost:3000/assets/company/company12.png", "alt": "company image", "caption": ""},
+    "quantity": "wholesale",
+    "products": []
+  }
+]

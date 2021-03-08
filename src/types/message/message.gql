@@ -1,0 +1,11 @@
+type Message {
+  id: ID
+  subject: String!
+  text: String!
+  from: User!
+}
+
+extend type Query {
+  message: Message!
+}
+

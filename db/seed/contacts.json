@@ -1,0 +1,440 @@
+[
+  {
+     "firstName":"Melany",
+     "lastName":"Shilliday",
+     "email":"mshilliday0@elpais.com",
+     "role":"Sales",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Melany Shilliday, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Fanny",
+     "lastName":"Baroch",
+     "email":"fbaroch1@abc.net.au",
+     "role":"Business Development",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Fanny Baroch stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Brendon",
+     "lastName":"Carratt",
+     "email":"bcarratt2@ameblo.jp",
+     "role":"Accounting",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Brendon Carratt, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Dollie",
+     "lastName":"Tegler",
+     "email":"dtegler3@blog.com",
+     "role":"Training",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Dollie Tegler stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Tandie",
+     "lastName":"Ledwidge",
+     "email":"tledwidge4@mayoclinic.com",
+     "role":"Business Development",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "An industry expert with more than 20 years of successful experience in full life cycle Recruiting and Business Development, Tandie Ledwidge has a proven ability to foster relationships with C-Suite and senior executives for I.T. Operations, Accounting, Finance and Home Building opportunities."
+  },
+  {
+     "firstName":"Tiler",
+     "lastName":"Horstead",
+     "email":"thorstead5@pcworld.com",
+     "role":"Support",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Tiler Horstead stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Gib",
+     "lastName":"Keuneke",
+     "email":"gkeuneke6@nsw.gov.au",
+     "role":"Training",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"}
+  },
+  {
+     "firstName":"Garrick",
+     "lastName":"Thomsson",
+     "email":"gthomsson7@netscape.com",
+     "role":"Product Management",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Garrick Thomsson is turning her own weight loss story into one of the fastest-growing businesses of its kind. The magnitude of her accomplishment going from size 18 to size 6 in 7 months, while eating dessert every day, is matched by the impressive growth of her following: from 1,639 followers to 11,550 followers in 4 weeks! She has created a 16-week virtual course as well as a one-on-one coaching program for people struggling with their own weight, giving them the blueprint to her success and helping them on their journey to weight loss freedom."
+  },
+  {
+     "firstName":"Latisha",
+     "lastName":"Brisset",
+     "email":"lbrisset8@pcworld.com",
+     "role":"Human Resources",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Latisha Brisset stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Freddy",
+     "lastName":"Trattles",
+     "email":"ftrattles9@ifeng.com",
+     "role":"Engineering",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Freddy Trattles, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Bendix",
+     "lastName":"Turri",
+     "email":"bturria@dion.ne.jp",
+     "role":"Human Resources",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"}
+  },
+  {
+     "firstName":"Manolo",
+     "lastName":"Golson",
+     "email":"mgolsonb@si.edu",
+     "role":"Human Resources",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Manolo Golson stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Hymie",
+     "lastName":"Dullaghan",
+     "email":"hdullaghanc@pbs.org",
+     "role":"Product Management",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Hymie Dullaghan, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Darya",
+     "lastName":"Stolze",
+     "email":"dstolzed@cnbc.com",
+     "role":"Product Management",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Darya Stolze is turning her own weight loss story into one of the fastest-growing businesses of its kind. The magnitude of her accomplishment going from size 18 to size 6 in 7 months, while eating dessert every day, is matched by the impressive growth of her following: from 1,639 followers to 11,550 followers in 4 weeks! She has created a 16-week virtual course as well as a one-on-one coaching program for people struggling with their own weight, giving them the blueprint to her success and helping them on their journey to weight loss freedom."
+  },
+  {
+     "firstName":"Tucker",
+     "lastName":"Acklands",
+     "email":"tacklandse@chron.com",
+     "role":"Research and Development",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Tucker Acklands, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Ripley",
+     "lastName":"Samuels",
+     "email":"rsamuelsf@nifty.com",
+     "role":"Human Resources",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Ripley Samuels stands at the forefront of the fastest moving technology industry trend: cloud services. He’s spent the past five years evangelizing an industry-wide shift to the cloud and has helped position Microsoft as a leader in the public cloud space."
+  },
+  {
+     "firstName":"Lorant",
+     "lastName":"Dykes",
+     "email":"ldykesg@wiley.com",
+     "role":"Support",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Lorant Dykes, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Rowen",
+     "lastName":"Tite",
+     "email":"rtiteh@clickbank.net",
+     "role":"Engineering",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Rowen Tite, on the surface, is an extremely accomplished financial analyst at Morgan Stanley Smith Barney, with 20 years’ experience in the financial markets, who consistently ensures the long-term viability of multi-million dollar portfolios. She considers herself a “portfolio surgeon” who takes an unhealthy portfolio and makes an endurance athlete out of it."
+  },
+  {
+     "firstName":"Brok",
+     "lastName":"Lougheid",
+     "email":"blougheidi@howstuffworks.com",
+     "role":"Product Management",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "An industry expert with more than 20 years of successful experience in full life cycle Recruiting and Business Development, Brok Lougheid has a proven ability to foster relationships with C-Suite and senior executives for I.T. Operations, Accounting, Finance and Home Building opportunities."
+  },
+  {
+     "firstName":"Chantalle",
+     "lastName":"Pim",
+     "email":"cpimj@nasa.gov",
+     "role":"Marketing",
+     "social":[
+        {
+           "platform":"linkedin",
+           "link":"https://www.linkedin.com"
+        },
+        {
+           "platform":"facebook",
+           "link":"https://www.facebook.com"
+        },
+        {
+           "platform":"twitter",
+           "link":"https://www.twitter.com"
+        }
+     ],
+     "createdAt": {"$date":"2021-02-28T19:55:08.777Z"},
+     "bio": "Chantalle Pim is turning her own weight loss story into one of the fastest-growing businesses of its kind. The magnitude of her accomplishment going from size 18 to size 6 in 7 months, while eating dessert every day, is matched by the impressive growth of her following: from 1,639 followers to 11,550 followers in 4 weeks! She has created a 16-week virtual course as well as a one-on-one coaching program for people struggling with their own weight, giving them the blueprint to her success and helping them on their journey to weight loss freedom."
+  }
+]

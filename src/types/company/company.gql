@@ -1,0 +1,35 @@
+type Company {
+  id: ID
+  name: String!
+  location: String!
+  image: Image
+  quantity: String!
+  products: [Product!]
+  orders: [Order!]
+}
+
+input NewCompanyInput {
+  name: String!
+  location: String!
+  image: NewImageInput
+  quantity: String!
+}
+
+input UpdateCompanyInput {
+  name: String
+  location: String
+  image: NewImageInput
+  quantity: String
+}
+
+extend type Query {
+  companies: [Company]!
+  company(id: ID!): Company!
+}
+
+extend type Mutation {
+  removeCompany(id: ID!): Company!
+  newCompany(input: NewCompanyInput!): Company!
+  sendOrder(id: ID!, input: NewOrderInput!): Company!
+  updateCompany(id: ID!, input: UpdateCompanyInput!): Company!
+}

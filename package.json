@@ -1,0 +1,45 @@
+{
+  "name": "winkel-server",
+  "version": "0.0.1",
+  "description": "server for winkel project",
+  "main": "src/index.js",
+  "scripts": {
+    "seed": "sh ./seed.sh",
+    "start": "node dist/index.js",
+    "build:prod": "babel src --out-dir dist",
+    "build:dev": "nodemon --exec yarn restart",
+    "prebuild:prod": "rimraf dist",
+    "restart": "rimraf dist && npm run build:prod && yarn start",
+    "eslint": "./node_modules/.bin/eslint",
+    "deploy": "forever start dist/index.js >> /var/log/forever/forever.log"
+  },
+  "author": "Obie",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "7.13.0",
+    "@babel/core": "7.13.8",
+    "@babel/eslint-parser": "7.13.8",
+    "@babel/plugin-proposal-class-properties": "7.13.0",
+    "@babel/plugin-proposal-object-rest-spread": "7.13.8",
+    "@babel/plugin-transform-runtime": "7.13.8",
+    "@babel/preset-env": "7.13.8",
+    "babel-jest": "26.6.3",
+    "cross-env": "7.0.3",
+    "eslint": "7.21.0",
+    "jest": "26.6.3",
+    "lodash": "4.17.21",
+    "nodemon": "2.0.7",
+    "rimraf": "3.0.2"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.13.8",
+    "apollo-server": "2.21.0",
+    "bcrypt": "5.0.1",
+    "core-js": "3.9.1",
+    "cuid": "2.1.8",
+    "graphql": "15.5.0",
+    "graphql-tools": "7.0.4",
+    "mongoose": "5.11.18",
+    "validator": "13.5.2"
+  }
+}
